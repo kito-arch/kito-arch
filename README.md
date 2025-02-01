@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kito-arch" alt="kito-arch" /></a> </p>
 
-- 📝 I regularly write articles on [dev.to/husnain](dev.to/husnain)
+- 📝 I regularly write articles on [https://dev.to/husnain](https://dev.to/husnain)
 
 - 📫 How to reach me **h.m.khan315@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/husnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/husnain" height="30" width="40" /></a>
+<a href="https://dev.to/husnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="husnain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/husnain-mustafa-17baa41ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/husnain-mustafa-17baa41ba/" height="30" width="40" /></a>
 </p>
 
