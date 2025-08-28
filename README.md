@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/husnain](https://dev.to/husnain)
 
-- 📫 How to reach me **husnainbusiness315@gmail.com**
+- 📫 How to reach me **husnain.mustafa.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
